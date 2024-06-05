@@ -1,0 +1,18 @@
+body{
+    background-color: #24353F;
+
+}
+
+.navbar{
+background-color: #24353F;
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+
+}
+#logoutbtn{
+    outline: 1px solid #FFC107;
+}
+.message{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+    color: #17A2B8;
+    margin-top: 10rem !important;
+}
